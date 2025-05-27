@@ -1,6 +1,12 @@
 # Stroke Prediction 📈📊
 
-## Introduction
+## Table of Contents
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Approach and Methodology](#approach-&-methodology)
+- [Technology Stack](#tech-stack)
+
+## *Introduction*
 
 Stroke remains one of the leading causes of death and long-term disability worldwide. Its sudden onset and severe consequences make it a major public health concern. ***Early detection and risk assessment*** are vital for enabling timely medical intervention and minimizing damage.
 
