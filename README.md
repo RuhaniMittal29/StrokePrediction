@@ -12,15 +12,6 @@ This project leverages the ([Stroke Prediction Dataset](https://www.kaggle.com/d
 
 The goal is to build a ***machine learning model*** that can accurately ***predict the risk of stroke in individuals based on health-related features***. Such a tool can assist healthcare professionals in identifying high-risk patients for early intervention and monitoring.
 
-## *Tech Stack*
-- **Programming Language**: Python
-- **Libraries**:
-    - `pandas`, `numpy` – Data manipulation
-    - `scikit-learn` – Model building, preprocessing
-    - `imblearn` – SMOTE for class imbalance
-    - `matplotlib`, `seaborn` – Data visualization
-    - `Jupyter Notebook` – Development environment
-
 ## *Approach & Methodology*
 
 - Preprocessed the data by handling missing values, encoding categorical variables, and normalizing features.
@@ -32,3 +23,14 @@ The goal is to build a ***machine learning model*** that can accurately ***predi
 - Evaluated each model individually on performance metrics.
 - Built a soft voting ensemble combining all three classifiers.
 - Assessed the ensemble model on a separate test set to ensure generalizability and robustness.
+
+## *Tech Stack*
+- **Programming Language**: Python
+- **Libraries**:
+    - `pandas`, `numpy` – Data manipulation
+    - `scikit-learn` – Model building, preprocessing
+    - `imblearn` – SMOTE for class imbalance
+    - `matplotlib`, `seaborn` – Data visualization
+    - `Jupyter Notebook` – Development environment
+
+This project demonstrates a practical application of machine learning in healthcare, showcasing a structured workflow, effective handling of imbalanced data, and thoughtful model evaluation techniques.
