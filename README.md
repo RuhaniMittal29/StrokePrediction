@@ -25,9 +25,9 @@ The goal is to build a ***machine learning model*** that can accurately ***predi
 
 - Preprocessed the data by handling missing values, encoding categorical variables, and normalizing features.
 - Implemented multiple classification algorithms:
-    Logistic Regression
-    K-Nearest Neighbors (KNN)
-    Support Vector Machine (SVM)
+    - Logistic Regression
+    - K-Nearest Neighbors (KNN)
+    - Support Vector Machine (SVM)
 - Used pipelines with SMOTE to address class imbalance for each model.
 - Evaluated each model individually on performance metrics.
 - Built a soft voting ensemble combining all three classifiers.
